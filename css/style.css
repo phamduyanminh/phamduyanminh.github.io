@@ -3,3 +3,16 @@ body{
     padding: 0;
     border: 0;
 }
+
+#header{
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: #020202;
+}
+
+#header_name, .header_nav_tags{
+    text-decoration: none;
+    color: #FFFFFF; 
+}
+
+
