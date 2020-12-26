@@ -2,17 +2,11 @@ body{
     margin: 0;
     padding: 0;
     border: 0;
+    text-decoration: none;
 }
 
-#header{
+.header-a-name{
     text-transform: uppercase;
     text-decoration: none;
-    background-color: #020202;
 }
-
-#header_name, .header_nav_tags{
-    text-decoration: none;
-    color: #FFFFFF; 
-}
-
 
