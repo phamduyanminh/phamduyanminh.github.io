@@ -13,8 +13,9 @@ Header Starts Here
 #header{
     display: flex;
     background-color: #f8f9fa;
-    height: 50px;
-    padding-top: 10px;
+    height: auto;
+    text-align: center;
+    align-items: center;
 }
 
 .header-name{
@@ -22,8 +23,16 @@ Header Starts Here
     text-decoration: none;
     color: #1b1b32;
     width: 30%;
+}
+
+.navbar{
+    width: 70%;
+}
+
+.fa-ellipsis-h{
     text-align: center;
-    vertical-align: middle;
+    align-items: center;
+    font-size: 25px;
 }
 /*
 Header Ends Here
