@@ -5,8 +5,28 @@ body{
     text-decoration: none;
 }
 
-.header-a-name{
+
+
+/*
+Header Starts Here
+*/
+#header{
+    display: flex;
+    background-color: #f8f9fa;
+    height: 50px;
+    padding-top: 10px;
+}
+
+.header-name{
     text-transform: uppercase;
     text-decoration: none;
+    color: #1b1b32;
+    width: 30%;
+    text-align: center;
+    vertical-align: middle;
 }
+/*
+Header Ends Here
+*/
+
 
