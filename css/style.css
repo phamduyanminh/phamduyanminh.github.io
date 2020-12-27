@@ -22,7 +22,7 @@ Header Starts Here
     text-transform: uppercase;
     text-decoration: none;
     color: #1b1b32;
-    width: 30%;
+    width: 25%;
 }
 
 .navbar{
@@ -33,6 +33,7 @@ Header Starts Here
     text-align: center;
     align-items: center;
     font-size: 25px;
+    cursor: pointer;
 }
 /*
 Header Ends Here
